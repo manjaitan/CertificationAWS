@@ -73,4 +73,9 @@
 + Virtual Private Grateay.
 
     + Permit create a VPN between On-Premise data center and VPC.
+    + Is created encryption connection.
+
++ AWS Direct connect.
+
+    + To establish a secure physical connection between your on-premise data center and your Amazon VPC.
 

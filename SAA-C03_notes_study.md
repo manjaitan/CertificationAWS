@@ -68,4 +68,4 @@ Task definition for create application.
 
 + Internet Gateway
 
-++ Connect VPC to the internet.
+    + Connect VPC to the internet.

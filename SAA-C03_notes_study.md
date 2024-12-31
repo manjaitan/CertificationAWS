@@ -79,3 +79,9 @@
 
     + To establish a secure physical connection between your on-premise data center and your Amazon VPC.
 
+### Amazon VPC Routing.
+
++ A route table contains a set of rules, called routes, that determine where network traffic from your subnet or gateway is directed.
+
+
+

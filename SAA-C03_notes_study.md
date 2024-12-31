@@ -1,5 +1,5 @@
 # Start 26 de Diciembre:
-# Exam SAA-C03.
+## Exam SAA-C03.
 
 
 
@@ -42,7 +42,7 @@
 
 + Amazon ECS
 
-Task definition for create application.
+    + Task definition for create application.
 
 + Amazon EKS
 
@@ -69,3 +69,8 @@ Task definition for create application.
 + Internet Gateway
 
     + Connect VPC to the internet.
+
++ Virtual Private Grateay.
+
+    + Permit create a VPN between On-Premise data center and VPC.
+

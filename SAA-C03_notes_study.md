@@ -143,8 +143,18 @@ Relating back to traditional storage systems.
 
     + File Storage is similary a SAN.
 
-### File Storage with Amazon EFS ans Amazon FSx.
+## File Storage with Amazon EFS ans Amazon FSx.
 
 
+### Amazon EFS.
+
+    +   Amazon Elastic File System (Amazon EFS) is a set-and-forget file system that automatically grows and shrinks as you add and remove files.
+
+### Amazon FSx.
+
+    + Amazon FSx is a fully managed service that offers reliability, security, scalability, and a broad set of capabilities that make it convenient and cost effective to launch, run, and scale high-performance file systems in the cloud.
+
+
+## Block Storage with Amazon EC2 Instance Store and Amazon EBS.
 
 

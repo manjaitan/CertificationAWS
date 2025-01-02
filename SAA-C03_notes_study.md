@@ -157,4 +157,36 @@ Relating back to traditional storage systems.
 
 ## Block Storage with Amazon EC2 Instance Store and Amazon EBS.
 
++ Amazon EBS use cases.
 
+    + Operating systems.
+
+    + Databases.
+
+    + Enterprise applications.
+
+    + Big data analytics engines.
+
++ EBS volumens types.
+
+    + SSD Volumes.
+
+    + HDD Volumes.
+
++ Amazon EBS benefits.
+
+    + High availability.
+
+    + Data persistence.
+
+    + Data encryption.
+
+    + Flexibility.
+
+    + Backups.
+
++ Amazon EBS Snapshots.
+
+    + EBS snapshots are incremental backups that only save the blocks on the volume that have changed after your most recent snapshot.
+
+## 

@@ -189,4 +189,60 @@ Relating back to traditional storage systems.
 
     + EBS snapshots are incremental backups that only save the blocks on the volume that have changed after your most recent snapshot.
 
-## 
+## Object Storage with Amazon S3.
+
+Object storage is built for the cloud and delivers virtually unlimited scalability, high durability, and cost effectiveness.
+
+Multiattach volumes not support whithin Amazon S3.
+
+Amazon S3 is design for have 99.99% of availability.
+
+Is design for eleven 11 , for example, 99.9999999999%
+
+Firs step is create one bucket.
+
+For naming buckets there are rules.
+
+Amazon S3 uses cases.
+
+    + Backup and restore.
+
+    + Media hosting.
+
+    + Software delivery.
+
+    + Data lakes.
+
+    + Static Websites.
+
+    + Static content.
+
+Security in Amazon S3.
+
+    + Everithing is private en Amazon S3.
+
+    + Amazon S3 and IAM policies.
+
+    + Amazon S3 bucket policies.
+
+    + Amazon S3 storage classes.
+
+    + Amazon S3 versioning.
+
+    + Managing your storage lifecycle.
+
+## Chosing  the right storage service.
+
+    + Amazon EC2 instance store.
+    
+    + Amazon EBS.
+
+    + Amazon S3.
+
+    + Amazon EFS.
+
+    + Amazon FsX.
+
+### Demostration createting a S3 bucket.
+
+Answers 100% ok in the first intent.

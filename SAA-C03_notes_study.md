@@ -83,5 +83,20 @@
 
 + A route table contains a set of rules, called routes, that determine where network traffic from your subnet or gateway is directed.
 
+    + Main route table.
 
+    + Custom routing table.
 
+### Amazon VPC Security.
+
++ You have two options for Security VPC resources, there are ACL and Security group.
+
+    + ACL is a firewall by level subnet.
+
+    + NSG (network security group)
+
+## Module 4 : AWS Storage.
+
+### Storage types.
+
+    +

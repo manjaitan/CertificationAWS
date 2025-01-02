@@ -99,4 +99,52 @@
 
 ### Storage types.
 
-    +
++ There are three diferents type the storage, File storage, Block storage, Object storage.
+
+    + File Storage.
+
+        + Case of uses:
+
+            + web Serving.
+
+            + Analitycs.
+
+            + Media and entertainment.
+
+            + Home Directories.
+
+    + Block Storage (1 gbs file)
+
+        + Is similary to singular unit.
+
+        + Case of uses:
+
+            + Transacational workloads.
+
+            + Containers.
+
+            + Virtual Machines.
+
+    + Object Storage (1 gbs file)
+
+        + Files are storage as objects.
+        
+        + Case iof uses.
+
+            + Data Archiving.
+
+            + Backup and recovery.
+
+            + Rich media.
+
+Relating back to traditional storage systems.
+
+    + Block Storage is a similar a SAN.
+
+    + File Storage is similary a SAN.
+
+### File Storage with Amazon EFS ans Amazon FSx.
+
+
+
+

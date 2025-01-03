@@ -246,3 +246,37 @@ Security in Amazon S3.
 ### Demostration createting a S3 bucket.
 
 Answers 100% ok in the first intent.
+
+## Module 5: Introductiong to databases on AWS.
+
++ More popular database are relational database, more selected in the history.
+
+    + MySQL.
+    
+    + PostgreSQL.
+
+    + Oracle.
+
+    + Microsoft SQL.
+
+    + Amazon Aurora.
+
++ More Benefits use Relational database.
+
+    + Complex SQL.
+
+    + Reduced redundancy.
+
+    + Familiarity.
+
+    + Accuracy.
+
++ Choose between unmanaged and managed databases.
+
+    + Unmanaged instances.
+
+        + Defined responsbility for this model.
+
+    + Managed instances.
+
+        + Defined responsbility for this model.

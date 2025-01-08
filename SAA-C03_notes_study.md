@@ -1,6 +1,4 @@
-# Start 26 de Diciembre:
 ## Exam SAA-C03.
-
 
 
 # AWS Technicals essentials:
@@ -52,7 +50,7 @@
 
 + AWS Lambda
 
-## Module 3 : AWS Networking 
+# Module 3 : AWS Networking 
 
 + VPC
 
@@ -95,7 +93,7 @@
 
     + NSG (network security group)
 
-## Module 4 : AWS Storage.
+# Module 4 : AWS Storage.
 
 ### Storage types.
 
@@ -247,7 +245,7 @@ Security in Amazon S3.
 
 Answers 100% ok in the first intent.
 
-## Module 5: Introductiong to databases on AWS.
+# Module 5: Introductiong to databases on AWS.
 
 + More popular database are relational database, more selected in the history.
 

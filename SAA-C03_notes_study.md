@@ -375,6 +375,58 @@ Answers 100% ok in the first intent.
 
     + Delivery seamless retail experiences.
 
+### Choosing the Right Database Service.
+
++ Amazon RDS, Aurora, Amazon Redshift
+    
+    + Database type : Relational.
+
+    + Uses cases : Traditional application ERP, CRM, Ecommerce.
+
++ DynamoDB.
+
+    + Database type : Key-value.
+
+    + Uses cases : High-traffic web applications, ecommerce systems, gaming applications.
+
++ Amazon ElastiCache for Memcached, Amazon ElastiCache for Redis.
+
+    + Database type : In-memory
+
+    + Uses cases : Caching, session management, gaming leaderboards, geospatial applications
+
++ Amazon DocumentDB.
+
+    + Database type : Document.
+
+    + Uses cases : Content management, catalogs, user profiles
+
++ Amazon Keyspaces.
+
+    + Databases type : Wide column
+
+    + Uses cases : High-scale industrial applications for equipment maintenance, fleet management, route optimization
+
++ Neptune.
+
+    + Databases type : Graph.
+
+    + Uses cases : Fraud detection, social networking, recommendation engines.
+
++ Timestream.
+
+    + Databases type : Time series.
+
+    + Uses cases : IoT applications, Development Operations (DevOps), industrial telemetry.
+
++ Amazon QLDB.
+
+    + Databases type : Ledger.
+
+    + Uses cases : Systems of record, supply chain, registrations, banking transactions
+
++ The industry of software going to the microservices.
+
 
 
 

@@ -280,3 +280,105 @@ Answers 100% ok in the first intent.
     + Managed instances.
 
         + Defined responsbility for this model.
+
+### Amazon RDS.
+
++ More commoms engine into Amazon RDS.
+
+    + Aurora.
+
+        + Can auto scale up to 128 tebibytes (TiB).
+
+    + MySQL.
+
+    + MariaDB.
+
+    + PostgreSQL.
+
+    + Oracle.
+
+    + Microsoft SQL Server.
+
++ Support engine for Amazon RDS.
+
+    + Comercial :  Oracle and SQL Server.
+
+    + Open source : MySQL, PostgreSQL, MariaDB.
+
+    + Aurora.
+
++ Databases instances.
+
++ Storage on Amazon RDS.
+
++ Amazon RDS in an Amazon Virtual Private Cloud.
+
++ Backup data.
+
+    + Automatic backup.
+
+        + Retain backup.
+
+        + Point-in-time recovery.
+
+    + Snapshots.
+
++ Redundancy with Amazon RDS Multi-AZ.
+
++ Amazon RDS security
+
+### Purpose-Built Databases
+
++ Amazon DynamoDB.
+
+    + Is a NoSQL Database, is key-value pair.
+
++ Amazon ElastiCache.
+
+    + Is a fully managed, in-memory caching solution.
+
++ Amazon MemoryDB for Redis.
+
+    + MemoryDB is a Redis-compatible, durable, in-memory database service that delivers ultra-fast performance.
+
++ Amazon DocumentDB ( with MongoDB compatibility ).
+
+    + Amazon DocumentDB has API compatibility with MongoDB.
+
++ Amazon Keyspace ( for apache Casandra).
+
+    + Amazon Keyspaces is a scalable, highly available, and managed Apache Cassandra compatible database service.
+
++ Amazon Neptune.
+
+    + Graphics database.
+
++ Amazon QLDB.
+
+    + Amazon Quantum Ledger Database
+
+### Amazon DynamoDB.
+
++ Is a Serverless Dabatabase, fully managed NoSQL database.
+
++ No required a schema like MySQL or SQL Server Database.
+
+    + Don't create database and tables, only create tablas standalone.
+
++ Amazon DynamoDB uses cases.
+
+    + Develop software applications.
+    
+    + Create media metadata stores.
+    
+    + Scale Games Platforms.
+
+    + Delivery seamless retail experiences.
+
+
+
+
+
+
+
+

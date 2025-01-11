@@ -433,5 +433,4 @@ Answers 100% ok in the first intent.
 
 
 
-
 **[⬆ Back to Top](Exam-SAA-C03)**

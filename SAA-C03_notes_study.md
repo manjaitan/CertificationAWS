@@ -424,6 +424,56 @@ Answers 100% ok in the first intent.
 
 + The industry of software going to the microservices.
 
+# Module 6: Monitoring
+
+## Monitoring, load balancing and scaling.
+
+### Monitoring benefits:
+
++ Response proactively.
+
++ Improve performance and reliability.
+
++ Recognize security threats and events.
+
++ Make data-driven decision.
+
++ Create cost-effective solutions.
+
+### Amazon Cloudwath.
+
++ Amazon CloudWatch is a monitoring and observability service that collects your resource data and provides actionable insights into your applications.
+
++ Case o f uses Amazon CloudWatch
+
+    + Detect anomalous behavior in your environment.
+
+    + Set alarms to alert you when something is not right.
+
+    + Visualize logs and metrics with the AWS Management Console.
+
+    + Take automated actiones like scaling.
+
+    + Troubleshoot issues.
+
+    + Discover insights to keep you applications healthy.
+
++ How CloudWatch works.
+
+    + With CloudWatch, all you need to get started is an AWS account. It is a managed service that you can use for monitoring without managing the underlying infrastructure
+
++ CloudWatch concetps.
+
+    + Metrics are the fundamental concept in CloudWatch.
+
++ Custom metrics.
+
++ CloudWatch dashboards.
+
++ Amazon CloudWatch Logs.
+
+
+
 
 
 

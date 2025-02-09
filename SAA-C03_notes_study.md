@@ -472,7 +472,34 @@ Answers 100% ok in the first intent.
 
 + Amazon CloudWatch Logs.
 
+### Optimizing solutions.
 
+### Traficc routing with Elastic Load Balancing.
+
++ ALB, NLB
+
+### Amazon EC2 autoscaling.
+
++ scaling vertical.
+
++ scaling horizontal.
+
++ EC2 availability.
+
++ ELB autoscaling , the validation is done thought health checks.
+
++ Configuring autoscaling group.
+
+    + There are three components principals.
+
+        + Launch templates or configurations.
+
+        + Amazon EC2 Auto Scaling groups.
+
+        + Scaling policies.
+
+        
++ Innovation with AWS and Q Development.
 
 
 

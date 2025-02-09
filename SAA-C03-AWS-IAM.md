@@ -28,3 +28,9 @@
 ## The important the IAM roles.
 
 + The most important is look roles.
+
+## Security tokens services ( STS )
+
++ Is usefull for session in the CLI.
++ Trust policies.
++ Permissions Policies.

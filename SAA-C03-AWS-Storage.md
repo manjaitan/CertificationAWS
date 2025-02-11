@@ -55,5 +55,33 @@
 
 ![AWS Services Portfolio](image-2.png)
 
+## Identifying the right storage solution in the cloud.
 
+### Storage characteristics and requirements
 
+### Questions to help determine storage requirements
+
+### Evaluate available configuration options
+
++ Provisioned IOPS.
++ Solid state drives ( SSD )
++ Hard disk drivers ( HDD )
++ Object storage.
++ Archival storage.
++ Ephemeral ( temporary ) storage.
+
+### Determine storage characteristics.
+
++ Ability to share the storage.
++ Ideal file size and maximum file size.
++ Storage cache size.
++ Average or expected latency.
++ Maxinum throughput.
++ Maximum IOPS.
++ Persistence of data.
+
+### Make decisions based on access patterns and metrics 
+
++ Optimize your storage usage and access patterns.
++ Select appropriate metrics for storage options.
++ Monitor metrics.

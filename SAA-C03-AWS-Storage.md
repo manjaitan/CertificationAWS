@@ -85,3 +85,32 @@
 + Optimize your storage usage and access patterns.
 + Select appropriate metrics for storage options.
 + Monitor metrics.
+
+## AWS services for edge and hybrid storage solutions (web)
+
+### AWS snow family overview:
+  
++ AWS snowball edge overview.
++ AWS snowcone overview.
+
+### AWS outpost owerview. 
+
+### AWS Storage Gateway owerview. 
+  
++ File Gateway overview.
++ Tape Gateway overview.
++ Volumne gatewat overview.
+
+## AWS services for edge and hybrid storage solutions (documentation)
+
+## AWS Snow Family documentation.
+
++ AWS Snowwall Edge.
++ AWS Outpost.
++ AWS Storage Gateway.
+  + AWS S3 File Gateway.
+  + AWS FSx file Gateway.
+  + Tape Gateway.
+  + Volume Gateway.
+
+ 

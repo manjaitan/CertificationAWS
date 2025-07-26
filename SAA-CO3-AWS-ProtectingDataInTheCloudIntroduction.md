@@ -76,5 +76,26 @@ Pricing.
 ## Native service snapshots.
 
 + Snapshots are individial services which provide point-in-time copies the your date.
-+ They  
++ Snapshots are stored part of Amazon as part of the managed service, protect you data with 99.999999999 (11 9s).
++ Two core services allow snapshots, Amazon EBS and Amazon FSx for lustre refres to the service as backups.
+  
+  ![awsNativeServiceSnapshots](image-11.png)
 
+## Amazon EBS snapshots.
+
+## Amazon FSx for lustre snapshots.
+
++ FSx for lustre backups are file system consistent, highly durable, and incremental. To provide high durabiliy, FSx for lustre stores your backups in Amazon S3 with 99.999999999 (11 9s).
+  
+### Pricing.
+
++ Pay only for storage capacity.
+
+## Cloud endure Disaster Recovery.
+
++ Use the same replication method to stage copies of your on-premise aplications.
++ Use to protect you most critica databases, including Oracle, MySQL, and SQL Server and enterprise application such as SAP.
+
+### Cloud endure features.
+
++ Continuos replication.

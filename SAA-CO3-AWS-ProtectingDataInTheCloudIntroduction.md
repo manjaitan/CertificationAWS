@@ -99,3 +99,4 @@ Pricing.
 ### Cloud endure features.
 
 + Continuos replication.
++ 

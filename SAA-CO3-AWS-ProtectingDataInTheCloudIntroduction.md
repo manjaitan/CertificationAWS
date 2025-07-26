@@ -87,7 +87,7 @@ Pricing.
 
 + FSx for lustre backups are file system consistent, highly durable, and incremental. To provide high durabiliy, FSx for lustre stores your backups in Amazon S3 with 99.999999999 (11 9s).
   
-### Pricing.
+## Pricing.
 
 + Pay only for storage capacity.
 
@@ -96,7 +96,16 @@ Pricing.
 + Use the same replication method to stage copies of your on-premise aplications.
 + Use to protect you most critica databases, including Oracle, MySQL, and SQL Server and enterprise application such as SAP.
 
-### Cloud endure features.
+## Cloud endure features.
 
 + Continuos replication.
-+ 
++ Low cost staging area.
++ Automated machine conversion and orchestration.
++ Point-in-time recovery testing.
++ Non-disruptive disaster recovery testing.
++ Wide application and infrastructure support.
+
+## Princing.
+
++ Billed for hourly for server registered.
++ Included continuos data replication.

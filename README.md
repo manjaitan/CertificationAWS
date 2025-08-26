@@ -1,2 +1,2 @@
 # CertificactionAWS
-Repo for note AWS Certifications
+Repo for notes AWS Certifications.
